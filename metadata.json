@@ -1,0 +1,6 @@
+{
+  "name": "Rutuja — A Night Full of Magic",
+  "description": "An ultra-premium romantic Diwali surprise experience crafted exclusively for Rutuja with glowing diyas, golden fireworks, and heartfelt memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
